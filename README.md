@@ -14,7 +14,7 @@ Question 3: Which are the best months of the year to release a movie?
 
 ## Data Understanding
 
-Datasets for the project were provided by Moringa School: [Moringa](https://moringaschool.com/courses/data-science-course/), as part of the Data Science course project. Copies of these datasets are stored in the 'zippedData' directory.  This includes data from Box Office Mojo, IMDB, Rotten Tomatoes, The Movie Database and The Numbers. It's worth noting that only datasets from IMDB and The Numbers were used. 
+Datasets for the project were provided by [Moringa](https://moringaschool.com/courses/data-science-course/) School, as part of the Data Science course project. Copies of these datasets are stored in the [zippedData](./zippedData) directory.  This includes data from Box Office Mojo, IMDB, Rotten Tomatoes, The Movie Database and The Numbers. It's worth noting that only datasets from IMDB and The Numbers were used. 
 
 The IMDB database,im.db, consists of 8 tables but I only made use of two tables; movie_ratings and movie_basics.
 
