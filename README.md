@@ -8,13 +8,13 @@
 
 The role assumed here is of a Data Scientist working for Microsoft. Microsoft wants to get into the business of creating original video content thus they have created a new movie studio. Since Microsoft has no prior experience in video content creation, the task is to explore what types of films are currently doing the best at the box office and use this to help decide what type of films to create. In order to achieve this, I have to process data from different movie datasets and then translate those findings into actionable insights that the head of Microsoft's new movie studio can use. This will be achieved by answering the following research questions:
 
-Question 1: How much should you spend in the production of a movie and which movies were the most profitable?
+Question 1: How much should you spend on the production of a movie and which movies were the most profitable?
 Question 2: Which movie genres are most commonly produced and how do they relate to their respective ratings?
 Question 3: Which are the best months of the year to release a movie?
 
 ## Data Understanding
 
-Datasets for the project were provided by Moringa School: [Moringa](https://moringaschool.com/courses/data-science-course/), as part of the Data Science course project. Copies of these datasets are stored in the 'zippedData' directory [zippedData](./zippedData/).  This includes data from Box Office Mojo, IMDB, Rotten Tomatoes, The Movie Database and The Numbers. It's worth noting that only datasets from IMDB and The Numbers were used. 
+Datasets for the project were provided by Moringa School: [Moringa](https://moringaschool.com/courses/data-science-course/), as part of the Data Science course project. Copies of these datasets are stored in the 'zippedData' directory.  This includes data from Box Office Mojo, IMDB, Rotten Tomatoes, The Movie Database and The Numbers. It's worth noting that only datasets from IMDB and The Numbers were used. 
 
 The IMDB database,im.db, consists of 8 tables but I only made use of two tables; movie_ratings and movie_basics.
 
@@ -84,7 +84,7 @@ I recommend that the movies are released in May, June and July. This is where we
 
 ### Next Steps
 
-Further analyses of these datasets could yield additional insights to the following questions:
+Further analysis of these datasets could yield additional insights into the following questions:
 
 1. Which movie genres have higher net profits?
 2. Which actors and directors tend to add the most value?
@@ -92,4 +92,4 @@ Further analyses of these datasets could yield additional insights to the follow
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](./).
+See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](presentation.pdf).
